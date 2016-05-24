@@ -1,0 +1,24 @@
+{
+  "name": "angular-Formly",
+  "authors": [
+    "Stephen Gadd <stephen_gadd@homedepot.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-formly": "^8.2.1",
+    "angular-formly-templates-bootstrap": "^6.3.2",
+    "bootstrap": "^3.3.6",
+    "api-check": "^7.5.5"
+  }
+}
